@@ -1,8 +1,10 @@
-package com.aayushijain.testgit;
+package com.aayushijain.testgit.view;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.aayushijain.testgit.R;
 
 public class MainActivity extends AppCompatActivity {
 
